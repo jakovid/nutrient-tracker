@@ -34,4 +34,8 @@ Currently, the `header` faces display issues after the user inputs their informa
 
 ## Preview
 
-coming soon
+![USDA Live Food Search](https://raw.githubusercontent.com/jakovid/nutrient-tracker/main/public/Screen%20Shot%202023-10-06%20at%209.27.35%20AM.png)
+
+![Micronutrient Dashboard](https://raw.githubusercontent.com/jakovid/nutrient-tracker/main/public/Screen%20Shot%202023-10-06%20at%209.28.10%20AM.png)
+
+![USDA Live Food Search 2](https://raw.githubusercontent.com/jakovid/nutrient-tracker/main/public/Screen%20Shot%202023-10-06%20at%209.29.14%20AM.png)
