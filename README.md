@@ -30,7 +30,7 @@ Encountered an issue or have a suggestion? Don't be shy.
 
 ## Known Issues
 
-Currently, changes in the `ContentContext` and `WebImageContext` states do not trigger an immediate reload upon submission from the admin panel. I'm actively looking into this.
+Currently, the `header` faces display issues after the user inputs their information. This is not a priority as the project is over.
 
 ## Preview
 
