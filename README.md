@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# Micronutrient Tracker (Prototype)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A complete solution built using React, HTML, CSS, JS, Firebase, and the USDA FoodData Central database.
 
-## Available Scripts
+## Project Overview
 
-In the project directory, you can run:
+**Objective:** Design and develop a rapid prototype app within a two-week timeframe for a Taipei-based startup studio.
 
-### `npm start`
+**Background:** The startup studio is dedicated to forging businesses and products centered on root cause analyses and functional health solutions. I was privileged to join the inaugural group of rapid prototype developers. Our objective was to ideate and fashion instrumental tools for evaluation. The initial week was dedicated to in-depth industry research and idea presentation, subsequently leading to an accelerated development sprint for product realization.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**For Users:**
 
-### `npm test`
+- Comprehensive meal tracking capability.
+- Database integration for real-time USDA food search and data.
+- Personalized dashboard with detailed micronutrient breakdowns.
+- Nutrient intake scoring algorithm tailored to user-specific biometrics and activity levels.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Customization
 
-### `npm run build`
+This project serves as a showcase in my public portfolio, thanks to the client's agreement. If you intend to adapt this project for your own needs, ensure all associated logos and brand names are modified accordingly.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Reporting Bugs & Improvements
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Encountered an issue or have a suggestion? Don't be shy.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Use the **issues tab** above to submit any discrepancies or proposals.
+2. If you've addressed an issue and want to contribute, raise a PR. Don't forget to reference the corresponding issue!
 
-### `npm run eject`
+## Known Issues
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Currently, changes in the `ContentContext` and `WebImageContext` states do not trigger an immediate reload upon submission from the admin panel. I'm actively looking into this.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Preview
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+coming soon
