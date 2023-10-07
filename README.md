@@ -1,6 +1,6 @@
 # Micronutrient Tracker (Prototype)
 
-A complete solution built using React, HTML, CSS, JS, Firebase, and the USDA FoodData Central database.
+A complete solution built using React, HTML, CSS, JS, Firebase, and the USDA FoodData Central API.
 
 ## Project Overview
 
