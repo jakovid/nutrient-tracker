@@ -4,7 +4,7 @@ A complete solution built using React, HTML, CSS, JS, Firebase, and the USDA Foo
 
 ## Project Overview
 
-**Objective:** Design and develop a rapid prototype app within a two-week timeframe for a Taipei-based startup studio.
+**Objective:** Design and develop a rapid prototype web application within a two-week timeframe for a Taipei-based startup studio.
 
 **Background:** The startup studio is dedicated to forging businesses and products centered on root cause analyses and functional health solutions. I was privileged to join the inaugural group of rapid prototype developers. Our objective was to ideate and fashion instrumental tools for evaluation. The initial week was dedicated to in-depth industry research and idea presentation, subsequently leading to an accelerated development sprint for product realization.
 
